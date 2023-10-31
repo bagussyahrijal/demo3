@@ -1,4 +1,4 @@
 # Nama
 Tubagus Syahrijal Amri
-#NIM
+# NIM
 202210370311117
